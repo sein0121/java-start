@@ -1,6 +1,6 @@
 package cond;
 
-public class SwitchIf1 {
+public class Switch1 {
     public static void main(String[] args) {
         int grade =5;
         int coupon = 0;
